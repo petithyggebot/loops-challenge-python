@@ -1,4 +1,7 @@
 # loops-challenge-python
+
+https://www.hackerrank.com/challenges/python-loops/problem
+
 Hacker rank solutions for Loops python challenge
 
 Task
