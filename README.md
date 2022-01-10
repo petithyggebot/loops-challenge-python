@@ -31,7 +31,7 @@ Sample Input 0
 5
 Sample Output 0
 
-0
+0 \n
 1
 4
 9
