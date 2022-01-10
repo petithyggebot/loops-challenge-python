@@ -29,11 +29,15 @@ Print n lines, one corresponding to each i.
 Sample Input 0
 
 5
-Sample Output 0
+Sample Output 
+(newline, but without skip a line)
 
 0
 
 1
+
 4
+
 9
+
 16
